@@ -1,0 +1,8 @@
+body {
+  font-family: 'Inter', system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, sans-serif;
+}
+
+.camera-placeholder {
+  height: 260px;
+  background: linear-gradient(135deg, #0d6efd, #6610f2);
+}
